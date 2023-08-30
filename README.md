@@ -13,7 +13,7 @@ Olá! 👋 Sou o Eduardo Almeida Porto, um entusiasta da programação e do mund
 - 🎬 Animes: Animes são uma grande fonte de entretenimento e inspiração para mim.
 - 📚 Estudo: Dedico parte do meu tempo livre para estudar e aprimorar minhas habilidades técnicas.
 - 🔒 Cibersegurança: Tenho um interesse especial na área de cibersegurança e estou focado em aprender mais sobre esse campo fundamental.
-- 🎓 Marketing Digital: Além do meu entusiasmo por tecnologia, estou cursando faculdade de Marketing Digital para complementar meu conhecimento.
+- 🎓 Ciências da Computação: Estou atualmente cursando Ciências da Computação na UniRitter, para complementar meus conhecimentos na área
 
 ## Objetivos
 
