@@ -6,8 +6,8 @@ Olá! 👋 Sou o Eduardo Almeida Porto, um entusiasta da programação e do mund
 
 <div>
  <a href="https://github.com/dudeksx">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dudeksx&show_icons=true&theme=tokyonight">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeksx&layout=compact&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudeksx&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeksx&layout=compact&theme=tokyonight">
 </div>
 
 
