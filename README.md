@@ -4,7 +4,11 @@
 
 Olá! 👋 Sou o Eduardo Almeida Porto, um entusiasta da programação e do mundo digital. Atualmente, tenho 18 anos e trabalho como Auxiliar de People Analytics. Meu interesse pela tecnologia e programação começou cedo, aos 15 anos, e desde então venho me dedicando ao estudo e desenvolvimento de habilidades nesse campo empolgante.
 
-![Imagem de uma tela com códigos](https://images.alphacoders.com/665/665093.jpg)
+<div>
+ <a href="https://github.com/Sh1nz4k1">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sh1nz4k1&show_icons=true&theme=tokyonight">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1nz4k1&layout=compact&theme=tokyonight">
+</div>
 
 
 ## Interesses
@@ -23,8 +27,8 @@ Estou em constante aprendizado e me considero um iniciante na área da programa�
 
 Se você compartilha interesses semelhantes, gosta de tecnologia ou quer trocar conhecimentos, não hesite em entrar em contato comigo! Estou sempre aberto a conversas, colaborações e novas amizades.
 
-LinkedIn: [Eduardo Almeida Porto](https://www.linkedin.com/in/seu_perfil/).
-
-GitHub: [Sh1nz4k1](https://github.com/Sh1nz4k1).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudeksx).
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dudeksx?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sh1nz4k1)
 
 Vamos aprender e crescer juntos nessa jornada emocionante da tecnologia! 🚀
