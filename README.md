@@ -4,7 +4,7 @@
 
 Olá! 👋 Sou o Eduardo Almeida Porto, um entusiasta da programação e do mundo digital. Atualmente, tenho 18 anos e trabalho como Auxiliar de People Analytics. Meu interesse pela tecnologia e programação começou cedo, aos 15 anos, e desde então venho me dedicando ao estudo e desenvolvimento de habilidades nesse campo empolgante.
 
-![Imagem de uma tela com códigos em Java](https://images6.alphacoders.com/430/430915.jpg)
+![Imagem de uma tela com códigos](https://images.alphacoders.com/665/665093.jpg)
 
 
 ## Interesses
