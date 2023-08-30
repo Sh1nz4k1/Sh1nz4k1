@@ -5,9 +5,9 @@
 Olá! 👋 Sou o Eduardo Almeida Porto, um entusiasta da programação e do mundo digital. Atualmente, tenho 18 anos e trabalho como Auxiliar de People Analytics. Meu interesse pela tecnologia e programação começou cedo, aos 15 anos, e desde então venho me dedicando ao estudo e desenvolvimento de habilidades nesse campo empolgante.
 
 <div>
- <a href="https://github.com/Sh1nz4k1">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Sh1nz4k1&show_icons=true&theme=tokyonight">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sh1nz4k1&layout=compact&theme=tokyonight">
+ <a href="https://github.com/dudeksx">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=dudeksx&show_icons=true&theme=tokyonight">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudeksx&layout=compact&theme=tokyonight">
 </div>
 
 
