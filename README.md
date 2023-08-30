@@ -27,8 +27,8 @@ Estou em constante aprendizado e me considero um iniciante na área da programa�
 
 Se você compartilha interesses semelhantes, gosta de tecnologia ou quer trocar conhecimentos, não hesite em entrar em contato comigo! Estou sempre aberto a conversas, colaborações e novas amizades.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudeksx).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dudeksx)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dudeksx?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sh1nz4k1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dudeksx)
 
 Vamos aprender e crescer juntos nessa jornada emocionante da tecnologia! 🚀
