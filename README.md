@@ -9,7 +9,7 @@ Hello!
 <br>
 👋 I'm Eduardo Almeida Porto, a programming and digital world enthusiast.
 <br>
-Currently, I'm 18 years old and work as an Assistant in People Analytics.
+Currently, I'm 19 years old and work as an Assistant in People Analytics.
 <br>
 My interest in technology and programming started early, at the age of 15, and since then, I've been dedicated to studying and developing skills in this exciting field.
 
